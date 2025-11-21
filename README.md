@@ -56,15 +56,25 @@ Slicers
 # 📁 Project Structure
 
 Employee-Attrition-Analysis/
+
 │── data/
+
 │     └── HR-Employee-Attrition.csv
+
 │── notebooks/
+
 │     └── attrition_analysis.ipynb
+
 │── dashboard/
+
 │     └── HR_Attrition.pbix
+
 │── images/
+
 │     └── model_output.png
+
 │── cleaned_data.csv
+
 │── README.md
 
 
@@ -126,7 +136,7 @@ Step 1 — Open Google Colab
 
 Upload the notebook:
 
-notebooks/attrition_analysis.ipynb
+# notebooks/AttritionAnalysis.ipynb
 
 Step 2 — Upload dataset
 
@@ -142,22 +152,28 @@ create visualizations
 
 train ML models
 
-export  HR-Employee-Attrition.csv for Power BI
+# export  HR-Employee-Attrition.csv for Power BI
 
-📊 How to Use the Power BI Dashboard
+# 📊 How to Use the Power BI Dashboard
 
 Open Power BI Desktop
 
 Click File → Open
 
 Select:
-dashboard/HR_Attrition.pbix
+
+# Employee Attrition.pbix
 
 Refresh the data
 
 Explore the interactive insights
 
-🙌 Acknowledgements
+# 🙌 Acknowledgements
 
-Dataset Source: HR Employee Attrition Dataset
-Tools: Google Colab, Python, Power BI
+Dataset Source: 
+
+HR Employee Attrition Dataset
+
+Tools: 
+
+Google Colab, Python, Power BI
