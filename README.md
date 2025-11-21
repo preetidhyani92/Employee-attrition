@@ -2,12 +2,12 @@
 
 # PREETI DHYANI
 
-📊 Employee Attrition Analysis (HR Analytics Project)
+# 📊 Employee Attrition Analysis (HR Analytics Project)
 
 This project analyzes employee attrition to help organizations understand why employees leave, identify critical retention drivers, and build predictive models using machine learning.
 It also includes a Power BI HR Dashboard with KPIs and interactive insights.
 
-🚀 Project Overview
+# 🚀 Project Overview
 
 Employee attrition is a major challenge for HR teams. This project uses HR data to:
 
@@ -21,7 +21,7 @@ Create a professional Power BI dashboard for HR teams
 
 The entire project is built using Google Colab (Python) + Power BI.
 
-🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 # 🔹 Python (Google Colab)
 
@@ -53,7 +53,8 @@ KPI Cards
 
 Slicers
 
-📁 Project Structure
+# 📁 Project Structure
+
 Employee-Attrition-Analysis/
 │── data/
 │     └── HR-Employee-Attrition.csv
@@ -66,8 +67,10 @@ Employee-Attrition-Analysis/
 │── cleaned_data.csv
 │── README.md
 
-📌 Key Features
-✅ 1. Data Cleaning & Preprocessing
+
+#📌 Key Features
+
+# ✅ 1. Data Cleaning & Preprocessing
 
 Handle missing values
 
@@ -77,7 +80,7 @@ Outlier treatment
 
 Creating new columns like Age Group, Income Band, etc.
 
-✅ 2. Exploratory Data Analysis (EDA)
+# ✅ 2. Exploratory Data Analysis (EDA)
 
 Attrition by Gender
 
@@ -89,7 +92,7 @@ Work Experience vs Attrition
 
 Income vs Attrition
 
-✅ 3. Machine Learning Model
+# ✅ 3. Machine Learning Model
 
 Train-test split
 
@@ -99,7 +102,7 @@ Best model selection using accuracy & ROC AUC
 
 Save predictions to CSV for dashboard
 
-✅ 4. Power BI Dashboard
+# ✅ 4. Power BI Dashboard
 
 KPIs included:
 
@@ -113,14 +116,16 @@ Average Monthly Income
 
 Average Age
 
-🖼️ Dashboard Preview
+# 🖼️ Dashboard Preview
 
 <img width="1331" height="742" alt="Image" src="https://github.com/user-attachments/assets/7d9037ad-34e9-46ed-a4b9-e40e3999907c" />
 
-📥 How to Run the Notebook
+# 📥 How to Run the Notebook
+
 Step 1 — Open Google Colab
 
 Upload the notebook:
+
 notebooks/attrition_analysis.ipynb
 
 Step 2 — Upload dataset
@@ -137,7 +142,7 @@ create visualizations
 
 train ML models
 
-export cleaned_data.csv for Power BI
+export  HR-Employee-Attrition.csv for Power BI
 
 📊 How to Use the Power BI Dashboard
 
