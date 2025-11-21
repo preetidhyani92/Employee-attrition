@@ -154,6 +154,8 @@ train ML models
 
 **export  HR-Employee-Attrition.csv for Power BI**
 
+
+
 # 📊 How to Use the Power BI Dashboard
 
 Open Power BI Desktop
@@ -167,6 +169,8 @@ Select:
 Refresh the data
 
 Explore the interactive insights
+
+
 
 # 🙌 Acknowledgements
 
