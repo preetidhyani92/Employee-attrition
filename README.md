@@ -136,7 +136,7 @@ Step 1 — Open Google Colab
 
 Upload the notebook:
 
-# notebooks/AttritionAnalysis.ipynb
+**notebooks/AttritionAnalysis.ipynb**
 
 Step 2 — Upload dataset
 
@@ -152,7 +152,7 @@ create visualizations
 
 train ML models
 
-# export  HR-Employee-Attrition.csv for Power BI
+**export  HR-Employee-Attrition.csv for Power BI**
 
 # 📊 How to Use the Power BI Dashboard
 
@@ -162,7 +162,7 @@ Click File → Open
 
 Select:
 
-# Employee Attrition.pbix
+**Employee Attrition.pbix**
 
 Refresh the data
 
