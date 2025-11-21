@@ -22,7 +22,8 @@ Create a professional Power BI dashboard for HR teams
 The entire project is built using Google Colab (Python) + Power BI.
 
 🛠️ Tools & Technologies
-🔹 Python (Google Colab)
+
+# 🔹 Python (Google Colab)
 
 pandas
 
@@ -34,7 +35,7 @@ seaborn
 
 scikit-learn
 
-🔹 Machine Learning
+# 🔹 Machine Learning
 
 Logistic Regression
 
@@ -44,7 +45,7 @@ Decision Tree
 
 Evaluation Metrics (Accuracy, ROC-AUC, Confusion Matrix)
 
-🔹 Power BI
+# 🔹 Power BI
 
 DAX Measures
 
@@ -114,3 +115,44 @@ Average Age
 
 🖼️ Dashboard Preview
 
+<img width="1331" height="742" alt="Image" src="https://github.com/user-attachments/assets/7d9037ad-34e9-46ed-a4b9-e40e3999907c" />
+
+📥 How to Run the Notebook
+Step 1 — Open Google Colab
+
+Upload the notebook:
+notebooks/attrition_analysis.ipynb
+
+Step 2 — Upload dataset
+
+Use the provided CSV file from the data/ folder.
+
+Step 3 — Run all cells
+
+It will:
+
+clean the data
+
+create visualizations
+
+train ML models
+
+export cleaned_data.csv for Power BI
+
+📊 How to Use the Power BI Dashboard
+
+Open Power BI Desktop
+
+Click File → Open
+
+Select:
+dashboard/HR_Attrition.pbix
+
+Refresh the data
+
+Explore the interactive insights
+
+🙌 Acknowledgements
+
+Dataset Source: HR Employee Attrition Dataset
+Tools: Google Colab, Python, Power BI
